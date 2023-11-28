@@ -1,1 +1,10 @@
 .idea/
+logs
+project/project
+project/target
+target
+tmp
+dist
+.bsp
+.cache
+RUNNING_PID
